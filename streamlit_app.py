@@ -235,19 +235,15 @@ elif menu == "📝 Dreamy Diary":
                 st.markdown("<hr style='border: 1px dashed #D6C2FF;' />", unsafe_allow_html=True)
 
 # =========================================================
-# MENU 3: ANGGOTA KELOMPOK 4
+# MENU 3: DINEZONE
 # =========================================================
-elif menu == "🦄 Kelompok 4":
-    st.markdown("<h1 style='text-align: center;'>🦄 Meet Kelompok 4 🦄</h1>", unsafe_allow_html=True)
+elif menu == "🦄 Hello, Nadine semangat ya belajarnya":
+   
     st.markdown("<p style='text-align: center; font-size: 18px;'>Tim solid nan super menggemaskan:</p>", unsafe_allow_html=True)
     
     # Menampilkan list 5 nama dengan style card yang imut
     st.markdown("""
     <div class="g4-card">
-        <div class="g4-item">👑 1. Fay</div>
-        <div class="g4-item">✨ 2. Nadine</div>
-        <div class="g4-item">🌸 3. Ajeng</div>
-        <div class="g4-item">☁️ 4. Naura</div>
-        <div class="g4-item">🔮 5. Chessa</div>
+       
     </div>
     """, unsafe_allow_html=True)
